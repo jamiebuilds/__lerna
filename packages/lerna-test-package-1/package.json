@@ -1,7 +1,7 @@
 {
   "name": "lerna-test-package-1",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "dependencies": {
-    "lerna-test-package-2": "^1.1.12"
+    "lerna-test-package-2": "^1.1.13"
   }
 }
