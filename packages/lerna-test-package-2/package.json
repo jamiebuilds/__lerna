@@ -1,6 +1,6 @@
 {
   "name": "lerna-test-package-2",
-  "version": "0.0.13",
+  "version": "0.1.0",
   "scripts": {
     "foo": "echo foo",
     "bar": "echo bar"
