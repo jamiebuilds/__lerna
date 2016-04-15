@@ -1,1 +1,1 @@
-module.exports = 123123;
+module.exports = 0;

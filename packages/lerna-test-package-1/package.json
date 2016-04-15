@@ -5,6 +5,6 @@
     "foo": "echo foo"
   },
   "dependencies": {
-    "lerna-test-package-2": "^1.0.2"
+    "lerna-test-package-2": "^1.0.5"
   }
 }
